@@ -14,7 +14,7 @@ Nekaj vprašanj:
 	* Katere vrste raka so najbolj pogoste pri moških in katere pri ženskah?
 	* Katera vrsta raka je najbolj pogosta in kaj povezuje države, kjer le-ta prevladuje?
 	* Kakšna je povezava med številom smrti pljučnega raka in številom kadilcev?
-	* Ali obstajajo korelacije med vrstami raka ter nekaterimi drugimi dejavniki tveganja, kot sta holesterol v krvi ali pa previsok indeks telesne mase?
+	* Ali obstajajo korelacije med vrstami raka ter nekaterimi drugimi dejavniki tveganja, kot je na primer holesterol v krvi?
   
 ## Podatki
 
